@@ -2,3 +2,5 @@
 
 
 Test lączenie sie itp
+
+Dodaje txt
